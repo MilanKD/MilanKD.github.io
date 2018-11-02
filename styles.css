@@ -1,1 +1,7 @@
-/*empty*/
+/*Home Page*/
+/*Styles for Link bar*/
+.lbar {
+  text-decoration: none;
+  text-transform: capitalize;
+  color: gray;
+}
