@@ -40,5 +40,4 @@ nav ul li {
    left: 50%;
     width: 1152px;
    height: 648px;
-   margin-top: -250px; /* Half the height */
-   margin-left: -250px; /* Half the width */
+}
